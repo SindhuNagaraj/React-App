@@ -1,0 +1,22 @@
+.department {
+   margin-top: 20px;
+   margin-bottom: 30px;
+   margin-right: 20px;
+   box-shadow: 0 18px 24px rgb(0 0 0 / 12%);
+   border-radius: 10px !important;
+   border: 2px !important;
+}
+
+.h4 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 10px !important;
+    margin-left: 20px;
+}
+
+p {
+  display: block;
+  padding-left: 20px;
+  padding-right: 10px;
+  padding-top: 10px;
+}

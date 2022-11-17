@@ -1,0 +1,70 @@
+.footer {
+  color: #fff;
+  background-color: #001230;
+  margin-top: auto;
+  padding: 10px;
+}
+
+.icons {
+  text-align: end;
+  margin-right: 8rem;
+}
+
+h3 {
+  margin-left: 40px;
+}
+
+.copyright {
+  margin-top: 20px;
+  margin-left: 10rem;
+  position: absolute;
+  color: #fff;
+  font-weight: 500;
+  font-size: 18px
+}
+
+h4 {
+  text-align: end;
+  margin-right: 10rem;
+}
+
+.footer-image {
+  background-color: #0843aa;
+}
+
+.mail {
+  color: #fff !important;
+  padding-left: 20px;
+}
+
+.HiMail {
+  font-size: 38px;
+}
+
+.footer-list-1 {
+  margin-top: 50px;
+}
+
+.footer-list-2 {
+  margin-top: 40px;
+}
+
+.quick-list-1 {
+  margin-top: 50px;
+}
+
+.social-icons {
+  margin-right: 20px;
+}
+
+.quick-list-2, .quick-list-3, .quick-list-4 {
+  margin-top: 30px;
+}
+
+.footer-list-3 {
+  margin-top: 40px;
+}
+
+.footer-item {
+  margin-top: -25rem;
+}

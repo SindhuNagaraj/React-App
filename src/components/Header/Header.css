@@ -1,0 +1,29 @@
+.title {
+  margin-left: 50px;
+  margin-top: 20px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.header {
+  border-bottom: 1px solid #9e9a9a;
+}
+
+a {
+  text-decoration: none !important;
+  color: #4e4b4b !important;
+  font-weight: bold;
+}
+
+ul li{
+  list-style: none;
+  padding-right: 30px;
+}
+
+ul {
+  text-align: right;
+  display: flex;
+  position: absolute;
+  margin-top: -40px !important;
+  left: 40%;
+}
