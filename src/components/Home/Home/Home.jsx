@@ -1,4 +1,4 @@
-import Departments from "components/Departments/Departments";
+import Departments from "../Departments/Departments";
 import React from "react";
 import Banner from "../Banner/Banner";
 import Intro from "../Intro/Intro";
