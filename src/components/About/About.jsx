@@ -1,4 +1,4 @@
-import AboutHospital from "components/Home/About Hospital/AboutHospital";
+import AboutHospital from "../Home/About Hospital/AboutHospital";
 import React from "react";
 import img1 from "../../images/About/about1.jpg";
 import img2 from "../../images/About/about2.jpg";
